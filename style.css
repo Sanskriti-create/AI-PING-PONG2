@@ -1,0 +1,46 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_img
+{
+    width: 100%;
+}
+
+#start, #status, #restart
+{
+    font-size: 22px;
+}
+
+.footer
+{
+    line-height: 2;
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: bisque;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.modal-body
+{
+    font-size: 25px;
+    text-align: left;
+}
